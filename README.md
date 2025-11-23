@@ -4,7 +4,7 @@ A responsive, GSAP-powered website showcasing how development and heritage can c
 Created for **CRYPTICON 2025 (AURA 2025)**.
 
 ## Website
-[Visit the site on Netlify]([(https://vikasvirasat.netlify.app/)]
+[Visit the site on Netlify](https://vikasvirasat.netlify.app/)
 
 ## Description
 "Vikas Bhi, Virasat Bhi" is a modern, interactive web project that highlights the balance between infrastructure growth and cultural preservation.  
