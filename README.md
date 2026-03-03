@@ -8,9 +8,9 @@ Created for **CRYPTICON 2025 (AURA 2025)**.
 
 ## Description
 "Vikas Bhi, Virasat Bhi" is a modern, interactive web project that highlights the balance between infrastructure growth and cultural preservation.  
-The website is divided into five main sections — **Home, Virasat, Vikas, Harmony, and Get Involved** — each designed with animations, interactive elements, and optimized responsiveness.
+The website is divided into five main sections - **Home, Virasat, Vikas, Harmony, and Get Involved** — each designed with animations, interactive elements, and optimized responsiveness.
 
-## ✨ Features
+## Features
 - **Smooth GSAP animations** with ScrollTrigger for a polished experience.
 - **Flip cards** and **Before/After slider** for visual storytelling.
 - **Auto-scrolling carousels** and image galleries.
