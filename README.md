@@ -34,9 +34,3 @@ The website is divided into five main sections - **Home, Virasat, Vikas, Harmony
 /harmony.html → Harmony section
 /involve.html → Get Involved section
 
-
-## Credits
-- **Developed by:** Ayaskant Sahoo & Reyansh Beniwal
-- **Institution:** Indraprastha International School  
-- **Year:** 2025
-
